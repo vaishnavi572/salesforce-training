@@ -105,11 +105,8 @@ During Day 1 training, I learned:
 ---
 
 # Screenshots
+![Screenshot 1](screenshots/WhatsApp%20Image%202026-05-11%20at%2019.23.15.jpeg)
 
-Add your Trailhead screenshots in this section.
+![Screenshot 2](screenshots/WhatsApp%20Image%202026-05-11%20at%2019.23.16%20(1).jpeg)
 
-Example:
-- Trailhead profile screenshot
-- Module completion screenshot
-- Salesforce Playground screenshot
-- Object Manager screenshot
+![Screenshot 3](screenshots/WhatsApp%20Image%202026-05-11%20at%2019.23.16.jpeg)
